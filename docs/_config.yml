@@ -16,7 +16,7 @@
 title: GBlog
 email: johann.haselberger@hs-kempten.de
 description: "Blog about my discoveries in the areas of deep learning and robotics"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/gBlog.github.io" # the subpath of your site, e.g. /blog
 url: "https://gismo07.github.io/gBlog.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  gismo07
