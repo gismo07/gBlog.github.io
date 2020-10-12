@@ -46,3 +46,7 @@ paginate:     5
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+# Disqus (Set to your disqus id)
+disqus: gblog-4
