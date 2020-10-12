@@ -9,9 +9,7 @@ author: "Johann"
 
 $$ \eta = \lambda * \eta_0 $$
 
-Build 2
-
 
 
 ![linear vs. exponential warmup]({{site.baseurl}}/assets/lrw/learningRateWarmup.jpeg)
-*image_caption*
+*Comparison of linear and exponential warmup. The warmup time window $$\tau$$ was set to 5.*
