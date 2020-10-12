@@ -23,6 +23,9 @@ github_username:  gismo07
 
 # Build settings
 markdown: kramdown
+kramdown:
+  math_engine: mathjax
+
 remote_theme: chesterhow/tale
 plugins:
   - jekyll-feed
