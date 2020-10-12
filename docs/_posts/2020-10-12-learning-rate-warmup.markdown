@@ -9,6 +9,8 @@ author: "Johann"
 
 $$ \eta = \lambda * \eta_0 $$
 
+Build
+
 
 
 ![My helpful screenshot](/assets/lrw/learningRateWarmup.jpeg)
