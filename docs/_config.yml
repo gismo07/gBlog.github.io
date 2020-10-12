@@ -29,9 +29,11 @@ markdown: kramdown
 remote_theme: chesterhow/tale
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-remote-theme
 
-permalink:  /:year-:month-:day/:title
-paginate:   5
+permalink:    /:year-:month-:day/:title
+paginate:     5
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
