@@ -14,3 +14,4 @@ Build 2
 
 
 ![linear vs. exponential warmup]({{site.baseurl}}/assets/lrw/learningRateWarmup.jpeg)
+*image_caption*
