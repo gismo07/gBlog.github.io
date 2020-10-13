@@ -41,6 +41,7 @@ My personal list of tools that I use in my projects or plan to use soon.
 
 
  - [carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research
+ - [carla-colab](https://github.com/MichaelBosello/carla-colab) - run CARLA simulator on colab
  - [carla ros bridge](https://github.com/carla-simulator/ros-bridge) - ROS bridge for CARLA Simulator
  - [carlaviz](https://github.com/carla-simulator/carlaviz) - Visualize carla in the web browser
 
