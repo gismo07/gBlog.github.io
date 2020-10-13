@@ -19,6 +19,7 @@ My personal list of tools that I use in my projects or plan to use soon.
  - [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
  - [DALI](https://github.com/NVIDIA/DALI) - highly optimized building blocks and an execution engine for data pre-processing
  - [horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch ...
+ - [onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 
 ### Bayesian Learning
  - [Blitz](https://github.com/piEsposito/blitz-bayesian-deep-learning) - A simple and extensible library to create Bayesian Neural Network layers on PyTorch
@@ -30,6 +31,7 @@ My personal list of tools that I use in my projects or plan to use soon.
 
 ## Visualization
  - [W&B](https://www.wandb.com/) - Experiment tracking, model optimization, and dataset versioning
+ - [netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
 
 <br>
 
@@ -41,6 +43,11 @@ My personal list of tools that I use in my projects or plan to use soon.
  - [carla](https://github.com/carla-simulator/carla) - Open-source simulator for autonomous driving research
  - [carla ros bridge](https://github.com/carla-simulator/ros-bridge) - ROS bridge for CARLA Simulator
  - [carlaviz](https://github.com/carla-simulator/carlaviz) - Visualize carla in the web browser
+
+<br>
+
+# Misc
+ - [SciencePlots](https://github.com/garrettj403/SciencePlots) - Matplotlib styles for scientific plotting
 
 <br>
 
