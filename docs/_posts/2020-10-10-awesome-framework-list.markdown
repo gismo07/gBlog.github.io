@@ -49,6 +49,7 @@ My personal list of tools that I use in my projects or plan to use soon.
 
 # Misc
  - [SciencePlots](https://github.com/garrettj403/SciencePlots) - Matplotlib styles for scientific plotting
+ - [remocolab](https://github.com/demotomohiro/remocolab) - python module to allow remote access to Google Colaboratory using SSH or TurboVNC
 
 <br>
 
