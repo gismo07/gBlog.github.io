@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dream team: Carla, ROS and COROS - Part I Introduction"
+title:  "Dream Team: Carla, ROS and COROS - Part I Introduction"
 date:   2020-10-15 10:11:37 +0200
 comments: false
 tags: Simulation Carla Docker ROS
