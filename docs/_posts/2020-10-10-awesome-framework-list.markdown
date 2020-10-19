@@ -21,6 +21,9 @@ My personal list of tools that I use in my projects or plan to use soon.
  - [horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch ...
  - [onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 
+### Autoencoder
+ - [PyTorch-VAE](https://github.com/AntixK/PyTorch-VAE) - A Collection of Variational Autoencoders (VAE) in PyTorch
+
 ### Bayesian Learning
  - [Blitz](https://github.com/piEsposito/blitz-bayesian-deep-learning) - A simple and extensible library to create Bayesian Neural Network layers on PyTorch
 
