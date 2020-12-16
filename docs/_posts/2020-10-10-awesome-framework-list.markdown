@@ -50,6 +50,12 @@ My personal list of tools that I use in my projects or plan to use soon.
 
 <br>
 
+# Autonomous driving
+Collection of interesting projects, mostly ROS based:
+ - [gerona](https://github.com/cogsys-tuebingen/gerona) - GeRoNa (Generic Robot Navigation)
+
+<br>
+
 # Misc
  - [SciencePlots](https://github.com/garrettj403/SciencePlots) - Matplotlib styles for scientific plotting
  - [remocolab](https://github.com/demotomohiro/remocolab) - python module to allow remote access to Google Colaboratory using SSH or TurboVNC
